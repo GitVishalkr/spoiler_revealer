@@ -1,0 +1,2 @@
+# Spoiler Revealer
+This project features a simple HTML structure that hides spoiler content using CSS. Spoilers are wrapped in a <span> with the class spoiler, making them invisible until hovered over.
